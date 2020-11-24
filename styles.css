@@ -355,6 +355,7 @@ h2{
     margin: 10px auto;
     border:solid 3px #53917E;
     text-decoration: none;
+	color: black !important;
 }
 
 a{
